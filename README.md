@@ -1,2 +1,1 @@
-# myDemoProject
-Just Identify the GitHub features
+Demo project created.
